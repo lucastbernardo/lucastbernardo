@@ -1,4 +1,4 @@
-# Olá! Sou o Lucas,
+# Olá! Eu sou o Lucas,
 🎯 Analista de Dados em transição para o Desenvolvimento Front-end   
 🎓 Formado em **Gestão em Tecnologia da Informação**  
 🚀 Atualmente aprendendo React, TypeScript, automações e integrações com APIs REST  
